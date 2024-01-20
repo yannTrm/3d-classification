@@ -1,5 +1,10 @@
 # Image Classification with PyTorch
 
+## Dataset
+
+The dataset used in this project consists of 2D images generated from 3D models. You can access the dataset on Kaggle: [Link to Kaggle Dataset]([https://www.kaggle.com/datasetlink](https://www.kaggle.com/datasets/terromyann/2d-views-from-3d))
+
+
 ## Overview
 
 This project demonstrates a simple image classification task using PyTorch. The code includes the following components:
