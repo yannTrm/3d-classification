@@ -166,8 +166,6 @@ Customize the code to suit your specific use case. Experiment with different arc
 
 ## About the Project
 
-- **Objective:**
-  - Create the Tower of Hanoi puzzle game in Virtual Reality.
 
 - **Development Period:**
   - Worked on this project in 2023 during my Master's in MMVAI at Paris Saclay.
