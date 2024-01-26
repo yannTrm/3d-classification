@@ -163,3 +163,13 @@ plt.show()
 ### Conclusion
 
 Customize the code to suit your specific use case. Experiment with different architectures, hyperparameters, and augmentation techniques for better performance. Happy coding!
+
+## About the Project
+
+- **Objective:**
+  - Create the Tower of Hanoi puzzle game in Virtual Reality.
+
+- **Development Period:**
+  - Worked on this project in 2023 during my Master's in MMVAI at Paris Saclay.
+
+
